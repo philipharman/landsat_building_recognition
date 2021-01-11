@@ -1,1 +1,1 @@
-# landsat_building_recognition
+# Full README available here: https://philipharmans.wixsite.com/philipharmans/satellite-imagery-building-identifi
