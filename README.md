@@ -1,2 +1,2 @@
 ### Full README available at:
-### https://philipharmans.wixsite.com/philipharmans/satellite-imagery-building-identifi
+### https://philipharman.wixsite.com/philipharman/keras-building-identification
