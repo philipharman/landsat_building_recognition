@@ -1,2 +1,2 @@
 ### Full README available at:
-### https://philipharman.wixsite.com/philipharman/keras-building-identification
+### https://philipharman.wixsite.com/portfolio/keras-building-identification
